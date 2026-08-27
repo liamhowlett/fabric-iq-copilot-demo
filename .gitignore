@@ -1,0 +1,23 @@
+# OS / editor cruft
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+.vscode/
+
+# OneDrive sync conflicts
+*conflicted copy*
+*-Conflict.*
+
+# Power BI local artefacts
+*.pbix
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+
+# Office lock files
+~$*
+
+# Local scratch
+*.tmp
+*.log

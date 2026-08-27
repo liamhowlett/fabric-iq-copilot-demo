@@ -1,0 +1,13 @@
+BrandID,SegmentID,BrandName,BrandTier,LaunchYear
+1,1,Premium Foods Co,Premium,2010
+2,1,Daily Essentials,Value,2005
+3,1,Gourmet Select,Premium,2015
+4,1,Quick Meals,Mid-Tier,2012
+5,2,Pure Beauty,Premium,2008
+6,2,Daily Care Essentials,Value,2003
+7,2,Natural Glow,Premium,2018
+8,2,Fresh Start,Mid-Tier,2011
+9,3,EcoClean Home,Premium,2016
+10,3,Sparkle & Shine,Mid-Tier,2007
+11,3,PowerClean,Value,2004
+12,3,Green Home Solutions,Premium,2019

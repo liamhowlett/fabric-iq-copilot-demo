@@ -1,0 +1,19 @@
+GeographyID,Region,Country,CountryCode,GrowthMarket
+1,Americas,United States,US,0
+2,Americas,Canada,CA,0
+3,Americas,Mexico,MX,1
+4,Americas,Brazil,BR,1
+5,Americas,Argentina,AR,1
+6,EMEA,United Kingdom,GB,0
+7,EMEA,Germany,DE,0
+8,EMEA,France,FR,0
+9,EMEA,Italy,IT,0
+10,EMEA,Spain,ES,0
+11,EMEA,Poland,PL,1
+12,EMEA,South Africa,ZA,1
+13,APAC,China,CN,1
+14,APAC,Japan,JP,0
+15,APAC,India,IN,1
+16,APAC,Australia,AU,0
+17,APAC,South Korea,KR,1
+18,APAC,Indonesia,ID,1

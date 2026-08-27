@@ -1,0 +1,119 @@
+ProductID,BrandID,SegmentID,ProductName,Category,SKU,UnitCost,UnitPrice
+1,1,1,Frozen Meals Item 1,Frozen Meals,FD-0001,4.25,14.51
+2,1,1,Frozen Meals Item 2,Frozen Meals,FD-0002,6.39,10.99
+3,1,1,Frozen Meals Item 3,Frozen Meals,FD-0003,2.94,6.56
+4,1,1,Frozen Meals Item 4,Frozen Meals,FD-0004,2.35,13.66
+5,1,1,Snacks Item 1,Snacks,FD-0005,5.61,12.08
+6,1,1,Snacks Item 2,Snacks,FD-0006,2.12,14.7
+7,1,1,Snacks Item 3,Snacks,FD-0007,6.99,7.12
+8,1,1,Beverages Item 1,Beverages,FD-0008,3.09,6.83
+9,1,1,Beverages Item 2,Beverages,FD-0009,3.83,10.25
+10,1,1,Beverages Item 3,Beverages,FD-0010,4.59,7.91
+11,1,1,Condiments Item 1,Condiments,FD-0011,5.67,6.39
+12,1,1,Condiments Item 2,Condiments,FD-0012,3.75,8.66
+13,1,1,Breakfast Foods Item 1,Breakfast Foods,FD-0013,4.74,12.85
+14,1,1,Breakfast Foods Item 2,Breakfast Foods,FD-0014,3.2,10.14
+15,2,1,Frozen Meals Item 1,Frozen Meals,FD-0015,5.55,5.46
+16,2,1,Frozen Meals Item 2,Frozen Meals,FD-0016,5.65,6.71
+17,2,1,Frozen Meals Item 3,Frozen Meals,FD-0017,2.39,14.49
+18,2,1,Frozen Meals Item 4,Frozen Meals,FD-0018,7.79,13.08
+19,2,1,Snacks Item 1,Snacks,FD-0019,3.83,5.98
+20,2,1,Snacks Item 2,Snacks,FD-0020,6.11,9.4
+21,2,1,Snacks Item 3,Snacks,FD-0021,2.73,9.95
+22,2,1,Beverages Item 1,Beverages,FD-0022,2.21,14.09
+23,2,1,Beverages Item 2,Beverages,FD-0023,3.55,11.63
+24,2,1,Beverages Item 3,Beverages,FD-0024,3.87,10.2
+25,2,1,Condiments Item 1,Condiments,FD-0025,5.28,6.85
+26,2,1,Condiments Item 2,Condiments,FD-0026,7.82,12.75
+27,2,1,Breakfast Foods Item 1,Breakfast Foods,FD-0027,7.64,13.95
+28,2,1,Breakfast Foods Item 2,Breakfast Foods,FD-0028,5.59,14.22
+29,3,1,Frozen Meals Item 1,Frozen Meals,FD-0029,2.53,6.96
+30,3,1,Frozen Meals Item 2,Frozen Meals,FD-0030,2.27,8.25
+31,3,1,Frozen Meals Item 3,Frozen Meals,FD-0031,4.33,7.71
+32,3,1,Frozen Meals Item 4,Frozen Meals,FD-0032,6.97,8.57
+33,3,1,Snacks Item 1,Snacks,FD-0033,3.69,10.43
+34,3,1,Snacks Item 2,Snacks,FD-0034,2.85,13.02
+35,3,1,Snacks Item 3,Snacks,FD-0035,2.45,14.87
+36,3,1,Beverages Item 1,Beverages,FD-0036,6.63,6.99
+37,3,1,Beverages Item 2,Beverages,FD-0037,2.03,13.15
+38,3,1,Condiments Item 1,Condiments,FD-0038,6.24,12.29
+39,3,1,Condiments Item 2,Condiments,FD-0039,6.63,5.74
+40,3,1,Breakfast Foods Item 1,Breakfast Foods,FD-0040,4.15,6.16
+41,3,1,Breakfast Foods Item 2,Breakfast Foods,FD-0041,7.18,11.23
+42,4,1,Frozen Meals Item 1,Frozen Meals,FD-0042,3.99,5.64
+43,4,1,Frozen Meals Item 2,Frozen Meals,FD-0043,3.87,8.25
+44,4,1,Frozen Meals Item 3,Frozen Meals,FD-0044,6.38,11.38
+45,4,1,Snacks Item 1,Snacks,FD-0045,7.32,9.72
+46,4,1,Snacks Item 2,Snacks,FD-0046,2.72,12.13
+47,4,1,Snacks Item 3,Snacks,FD-0047,6.56,10.61
+48,4,1,Beverages Item 1,Beverages,FD-0048,6.63,9.94
+49,4,1,Beverages Item 2,Beverages,FD-0049,5.14,9.28
+50,4,1,Condiments Item 1,Condiments,FD-0050,2.15,6.08
+51,4,1,Condiments Item 2,Condiments,FD-0051,2.19,11.36
+52,4,1,Breakfast Foods Item 1,Breakfast Foods,FD-0052,3.89,10.09
+53,5,2,Skincare Item 1,Skincare,PC-0053,5.58,7.49
+54,5,2,Skincare Item 2,Skincare,PC-0054,3.35,14.58
+55,5,2,Skincare Item 3,Skincare,PC-0055,2.53,5.08
+56,5,2,Hair Care Item 1,Hair Care,PC-0056,2.8,6.26
+57,5,2,Hair Care Item 2,Hair Care,PC-0057,5.68,15.31
+58,5,2,Body Wash Item 1,Body Wash,PC-0058,4.35,16.2
+59,5,2,Body Wash Item 2,Body Wash,PC-0059,5.12,6.61
+60,5,2,Oral Care Item 1,Oral Care,PC-0060,5.52,11.55
+61,5,2,Oral Care Item 2,Oral Care,PC-0061,5.13,16.55
+62,5,2,Deodorants Item 1,Deodorants,PC-0062,2.93,5.54
+63,5,2,Deodorants Item 2,Deodorants,PC-0063,2.53,9.98
+64,6,2,Skincare Item 1,Skincare,PC-0064,5.18,16.05
+65,6,2,Skincare Item 2,Skincare,PC-0065,1.53,11.15
+66,6,2,Skincare Item 3,Skincare,PC-0066,3.38,7.11
+67,6,2,Hair Care Item 1,Hair Care,PC-0067,2.04,8.73
+68,6,2,Hair Care Item 2,Hair Care,PC-0068,5.74,8.52
+69,6,2,Body Wash Item 1,Body Wash,PC-0069,3.83,13.84
+70,6,2,Body Wash Item 2,Body Wash,PC-0070,3.14,17.6
+71,6,2,Oral Care Item 1,Oral Care,PC-0071,5.83,7.52
+72,6,2,Oral Care Item 2,Oral Care,PC-0072,3.74,8.21
+73,6,2,Deodorants Item 1,Deodorants,PC-0073,2.78,4.52
+74,7,2,Skincare Item 1,Skincare,PC-0074,4.24,11.04
+75,7,2,Skincare Item 2,Skincare,PC-0075,1.73,7.9
+76,7,2,Hair Care Item 1,Hair Care,PC-0076,5.59,7.35
+77,7,2,Hair Care Item 2,Hair Care,PC-0077,2.15,10.85
+78,7,2,Body Wash Item 1,Body Wash,PC-0078,5.94,7.39
+79,7,2,Body Wash Item 2,Body Wash,PC-0079,4.52,14.66
+80,7,2,Oral Care Item 1,Oral Care,PC-0080,2.57,14.2
+81,7,2,Deodorants Item 1,Deodorants,PC-0081,3.16,12.85
+82,8,2,Skincare Item 1,Skincare,PC-0082,4.35,11.5
+83,8,2,Skincare Item 2,Skincare,PC-0083,1.91,15.69
+84,8,2,Hair Care Item 1,Hair Care,PC-0084,2.94,6.61
+85,8,2,Hair Care Item 2,Hair Care,PC-0085,1.68,12.27
+86,8,2,Body Wash Item 1,Body Wash,PC-0086,4.55,4.23
+87,8,2,Oral Care Item 1,Oral Care,PC-0087,3.8,7.17
+88,8,2,Deodorants Item 1,Deodorants,PC-0088,4.4,6.44
+89,9,3,Laundry Detergent Item 1,Laundry Detergent,HC-0089,5.45,9.25
+90,9,3,Laundry Detergent Item 2,Laundry Detergent,HC-0090,6.68,6.51
+91,9,3,All-Purpose Cleaners Item 1,All-Purpose Cleaners,HC-0091,3.71,6.25
+92,9,3,All-Purpose Cleaners Item 2,All-Purpose Cleaners,HC-0092,6.62,14.65
+93,9,3,Dish Soap Item 1,Dish Soap,HC-0093,3.29,12.26
+94,9,3,Dish Soap Item 2,Dish Soap,HC-0094,6.09,11.11
+95,9,3,Floor Care Item 1,Floor Care,HC-0095,4.65,7.66
+96,9,3,Floor Care Item 2,Floor Care,HC-0096,2.47,14.87
+97,9,3,Air Fresheners Item 1,Air Fresheners,HC-0097,6.5,11.96
+98,10,3,Laundry Detergent Item 1,Laundry Detergent,HC-0098,3.7,8.84
+99,10,3,Laundry Detergent Item 2,Laundry Detergent,HC-0099,5.63,14.87
+100,10,3,All-Purpose Cleaners Item 1,All-Purpose Cleaners,HC-0100,6.44,13.58
+101,10,3,All-Purpose Cleaners Item 2,All-Purpose Cleaners,HC-0101,5.21,5.93
+102,10,3,Dish Soap Item 1,Dish Soap,HC-0102,2.81,14.88
+103,10,3,Dish Soap Item 2,Dish Soap,HC-0103,5.03,5.1
+104,10,3,Floor Care Item 1,Floor Care,HC-0104,2.51,12.3
+105,10,3,Air Fresheners Item 1,Air Fresheners,HC-0105,2.03,6.77
+106,11,3,Laundry Detergent Item 1,Laundry Detergent,HC-0106,4.74,12.61
+107,11,3,Laundry Detergent Item 2,Laundry Detergent,HC-0107,5.26,7.47
+108,11,3,All-Purpose Cleaners Item 1,All-Purpose Cleaners,HC-0108,5.56,7.61
+109,11,3,All-Purpose Cleaners Item 2,All-Purpose Cleaners,HC-0109,3.63,13.21
+110,11,3,Dish Soap Item 1,Dish Soap,HC-0110,5.25,14.34
+111,11,3,Floor Care Item 1,Floor Care,HC-0111,5.29,11.25
+112,11,3,Air Fresheners Item 1,Air Fresheners,HC-0112,2.47,9.04
+113,12,3,Laundry Detergent Item 1,Laundry Detergent,HC-0113,3.33,7.68
+114,12,3,Laundry Detergent Item 2,Laundry Detergent,HC-0114,6.87,9.32
+115,12,3,All-Purpose Cleaners Item 1,All-Purpose Cleaners,HC-0115,6.46,11.94
+116,12,3,Dish Soap Item 1,Dish Soap,HC-0116,5.97,10.53
+117,12,3,Floor Care Item 1,Floor Care,HC-0117,4.88,10.42
+118,12,3,Air Fresheners Item 1,Air Fresheners,HC-0118,2.98,12.95

@@ -1,0 +1,17 @@
+CostCenterID,Department,Function,CostCenterCode
+1,Sales & Marketing,Advertising,CC-001
+2,Sales & Marketing,Digital Marketing,CC-002
+3,Sales & Marketing,Trade Promotions,CC-003
+4,Sales & Marketing,Sales Force,CC-004
+5,Operations,Manufacturing,CC-005
+6,Operations,Logistics,CC-006
+7,Operations,Warehousing,CC-007
+8,Operations,Quality Control,CC-008
+9,R&D,Product Development,CC-009
+10,R&D,Innovation,CC-010
+11,R&D,Packaging Design,CC-011
+12,G&A,Finance,CC-012
+13,G&A,HR,CC-013
+14,G&A,IT,CC-014
+15,G&A,Legal,CC-015
+16,G&A,Corporate,CC-016
