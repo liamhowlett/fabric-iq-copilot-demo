@@ -13,22 +13,23 @@
 
 ## 💡 What Did I Create and Why?
 
-I created this demo (alongside Product Group — thanks to Carly Newsome and Sara Vredevoogd for the direction) because I genuinely think this is one of the most important BI developments I've seen in a long time. Every single person in every organisation that has Power BI and M365 Copilot — which is a lot of organisations — should be aware of this. Here are some of the reasons I think it's so powerful:
+I created this demo (alongside Product Group — thanks to Carly Newsome and Sara Vredevoogd for the direction) because I genuinely think this is one of the most important BI developments I've seen in a long time. Every single person in every organisation that has Power BI and M365 Copilot, which is a lot, should be aware of this. Here are some of the reasons I think it's so powerful:
 
 - **The analysis is incredible.** Not just running queries, pulling numbers and creating stunning visuals, but the way it tells the story too.
 - **Work IQ integration means you have more than just numbers.** You have all the business context in your M365 ecosystem to augment those insights. Anecdotal information captured in a 1:1 chat, not a data platform, is now an easily accessible data point.
 - **What's the use in doing BI if you're not going to act on it?** In Cowork, you can do so from the same environment.
 - **The semantic model.** The story below shows how a non-deterministic engine gets the same answers across multiple interfaces. This would not be possible without the most mature semantic layer in the market.
+- **Fabric IQ's AI cost is included in the cost of Copilot!!** Yes, this means you don't need a Fabric capacity to use this!
 
 The demo pivots around a single question: **how did Q1 land?**
 
-A finance director asks it in Teams. An analyst picks it up in Cowork. An analytics engineer finishes it in GitHub Copilot. The number is identical every time. What changes is what each person can *do* with it — and by the end, a metric that only existed in people's heads ("operating cost ratio by market") has become a governed, documented measure in the model.
+A finance director asks it in Teams. An analyst picks it up in Cowork. An analytics engineer finishes it in GitHub Copilot. The number is identical every time. What changes is what each person can *do* with it, and by the end, a metric that only existed in people's heads ("operating cost ratio by market") has become a governed, documented measure in the model.
 
 The design decision that makes this work is worth calling out, because it's the thing most demos get wrong:
 
 > **Fabric IQ owns every number. Work IQ owns the story.**
 >
-> The seeded emails, chats and documents in this demo contain **no figures at all** — no percentages, no currency, no ratios. They only carry the human context: *why* a supplier negotiation collapsed, *why* a building sat empty, *why* one cost line is permanent and the rest aren't.
+> The seeded emails, chats and documents in this demo contain **no figures at all** - no percentages, no currency, no ratios. They only carry the human context: *why* a supplier negotiation collapsed, *why* a building sat empty, *why* one cost line is permanent and the rest aren't.
 >
 > If you seed your work graph with the same numbers the model already computes, the big reveal is just Copilot repeating itself. Keep them separate and the two halves genuinely add up to something neither could give you alone.
 
